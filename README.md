@@ -1,6 +1,6 @@
 # Bioinformatics Project 2 – Identification of Xylanase Genes from Rumen Metagenome
 
-> Identification of microbial xylanase enzyme genes from the ruminant rumen metagenome using bioinformatics tools. _
+> Identification of microbial xylanase enzyme genes from the ruminant rumen metagenome using bioinformatics tools.<br>
 > *This project is part of the Introduction to Bioinformatics course.*
 
 ---
@@ -76,8 +76,8 @@ Project2/
 ## Tools & Dependencies
 
 * [BLAST+](https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html#downloadblastdata)
-* [CD-HIT](http://weizhongli-lab.org/cd-hit/)
-* [Clustal Omega](https://www.ebi.ac.uk/Tools/msa/clustalo/)
+* [CD-HIT](https://github.com/weizhongli/cdhit/releases)
+* [Clustal Omega](http://www.clustal.org/omega/)
 * [HMMER](http://hmmer.org/)
 * Optional: DIAMOND, machine learning–based methods
 
