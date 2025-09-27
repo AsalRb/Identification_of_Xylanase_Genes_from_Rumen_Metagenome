@@ -89,7 +89,7 @@ Project2/
 
 ```bash
 git clone https://github.com/AsalRb/Identification_of_Xylanase_Genes_from_Rumen_Metagenome.git
-cd Bioinformatics-Project2
+cd Identification_of_Xylanase_Genes_from_Rumen_Metagenome
 ```
 
 ### 2. Install dependencies
