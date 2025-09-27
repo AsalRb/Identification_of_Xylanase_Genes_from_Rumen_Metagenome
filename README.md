@@ -21,7 +21,7 @@ This project focuses on **discovering xylanase genes** from the rumen metagenome
   * Reduce redundancy by clustering.
   * Build models for conserved regions to refine candidate sequences.
 
-Dataset: [Rumen metagenome contigs (Google Drive)](https://drive.google.com/file/d/14PGwsGuL2ouY-_fv0yrzijGnBMSjREU6/view)
+Dataset: [Rumen metagenome contigs (Google Drive)](https://drive.google.com/file/d/1jceyusHkaS5QXm23fFzvJlaa-fAnuNvY/view?usp=sharing)
 Reference thermostable xylanases: *thermo\_xylanase* dataset
 
 ---
@@ -106,7 +106,7 @@ sudo apt-get install ncbi-blast+ cd-hit hmmer clustalo
 * Place input contigs and `thermo_xylanase` sequences into `Inputs/`.
 * Run commands for each part:
 
-  * **part1/** → similarity search (BLAST+, DIAMOND, or HMMER)
+  * **part1/** → similarity search (BLAST+)
   * **part2/** → clustering with CD-HIT
   * **part3/** → build HMM/PSSM model and filter sequences
 
