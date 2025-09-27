@@ -88,7 +88,7 @@ Project2/
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/<your-username>/Bioinformatics-Project2.git
+git clone https://github.com/AsalRb/Identification_of_Xylanase_Genes_from_Rumen_Metagenome.git
 cd Bioinformatics-Project2
 ```
 
