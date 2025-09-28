@@ -79,7 +79,6 @@ Project2/
 * [CD-HIT](https://github.com/weizhongli/cdhit/releases)
 * [Clustal Omega](http://www.clustal.org/omega/)
 * [HMMER](http://hmmer.org/)
-* Optional: DIAMOND, machine learning–based methods
 
 ---
 
